@@ -13,55 +13,119 @@
 
 ## 📸 Скриншоти проходження курсу
 
-### 🔹 Частина 1 — базові операції
+### 1. Фінальні приготування  
+![1  Фінальні приготування](https://github.com/user-attachments/assets/a08b52f4-ed40-44af-9472-9c94b12bf158)
 
-![1  Фінальні приготування](https://github.com/user-attachments/assets/a08b52f4-ed40-44af-9472-9c94b12bf158)  
-![2  Створення проєкту](https://github.com/user-attachments/assets/13bf371c-d2d0-4c96-9aa3-baafbb91bcc0)  
-![3  Перевірка стану](https://github.com/user-attachments/assets/5105fb49-1c73-419a-bf8e-302e51b9254d)  
-![4  Внесення змін](https://github.com/user-attachments/assets/13945a0c-f3a1-4bb6-86d8-5a1e6a26ea8b)  
-![5  Індексація змін](https://github.com/user-attachments/assets/344e8b65-d310-4658-8868-86001936adad)  
-![7  Коміт змін](https://github.com/user-attachments/assets/732e62cc-7ca4-48ee-b723-fdd9846e77b9)  
-![8  Зміни, а не файли](https://github.com/user-attachments/assets/9eeef5d7-31fa-4ed4-bd0b-fc771d9b7348)  
-![9  Історія проєкту](https://github.com/user-attachments/assets/889b5e5c-2399-4530-9b34-cc1b61e2b128)  
-![9  Історія проєкту(2)](https://github.com/user-attachments/assets/946bb284-ef3e-4c8d-bae4-ec8bc5f4c314)  
-![10  Отримання старих версій](https://github.com/user-attachments/assets/e950a2ab-ea25-4b59-9dea-3e8c8a6013fa)  
-![11  Створення тегів версій](https://github.com/user-attachments/assets/c3500bb2-5790-431b-82a9-dbcd1ce97b18)  
-![12  Скасування локальних змін (до індексації)](https://github.com/user-attachments/assets/b7ebec55-ab90-4d6e-b81d-6f19b202c7d1)  
-![13  Скасування проіндексованих змін (перед комітом)](https://github.com/user-attachments/assets/c689350e-76dc-43d9-a1b0-436adebd9f62)  
-![14  Скасування комітів](https://github.com/user-attachments/assets/ba66047c-0bc9-4207-9beb-ec2ad96cf009)  
-![15  Видалення комітів з гілки (revert)](https://github.com/user-attachments/assets/bf376d7e-b65c-4127-ab91-2d3a32baab2b)  
-![16  Видалення тегу oops](https://github.com/user-attachments/assets/dd2cf1b7-b29b-4469-9d45-0d74e3034ae7)  
-![17  Внесення змін до комітів](https://github.com/user-attachments/assets/05ad223f-57e1-4874-8060-e3638422939a)  
-![18  Створення гілки](https://github.com/user-attachments/assets/5c61bf8a-b5b8-466b-8a7c-ed952f292d9c)  
-![19  Перемикання гілок](https://github.com/user-attachments/assets/c2b2dbb2-2328-49cc-b03b-99d7cec2283c)  
-![20  Переміщення файлів](https://github.com/user-attachments/assets/067decb1-e7cf-4312-b9c1-b15c6eed0949)  
-![21  Зміни в гілці main](https://github.com/user-attachments/assets/5768b67e-6c01-4529-887f-110d4e5d0bef)  
-![22  Перегляд розбіжних гілок](https://github.com/user-attachments/assets/21834e9c-3136-4f48-987f-f34f05834c0b)  
-![23  Злиття](https://github.com/user-attachments/assets/bf2e09df-f91a-47b3-91fa-a786c9347de3)  
-![24  Створення конфлікту](https://github.com/user-attachments/assets/28286602-3f50-4a58-9307-f3530ac2af16)  
-![25  Вирішення конфліктів](https://github.com/user-attachments/assets/8bcccbed-5773-4471-adc1-7bd61a0726cf)  
-![27  Відкочування гілки style](https://github.com/user-attachments/assets/58af5406-d943-4a6c-8a6f-9c8c28696c30)  
-![28  Перебазування](https://github.com/user-attachments/assets/60f8b207-cba5-4f03-9abd-ec22aa6ff792)  
+### 2. Створення проєкту  
+![2  Створення проєкту](https://github.com/user-attachments/assets/13bf371c-d2d0-4c96-9aa3-baafbb91bcc0)
+
+### 3. Перевірка стану  
+![3  Перевірка стану](https://github.com/user-attachments/assets/5105fb49-1c73-419a-bf8e-302e51b9254d)
+
+### 4. Внесення змін  
+![4  Внесення змін](https://github.com/user-attachments/assets/13945a0c-f3a1-4bb6-86d8-5a1e6a26ea8b)
+
+### 5. Індексація змін  
+![5  Індексація змін](https://github.com/user-attachments/assets/344e8b65-d310-4658-8868-86001936adad)
+
+### 7. Коміт змін  
+![7  Коміт змін](https://github.com/user-attachments/assets/732e62cc-7ca4-48ee-b723-fdd9846e77b9)
+
+### 8. Зміни, а не файли  
+![8  Зміни, а не файли](https://github.com/user-attachments/assets/9eeef5d7-31fa-4ed4-bd0b-fc771d9b7348)
+
+### 9. Історія проєкту  
+![9  Історія проєкту](https://github.com/user-attachments/assets/889b5e5c-2399-4530-9b34-cc1b61e2b128)
+
+### 9. Історія проєкту (2)  
+![9  Історія проєкту(2)](https://github.com/user-attachments/assets/946bb284-ef3e-4c8d-bae4-ec8bc5f4c314)
+
+### 10. Отримання старих версій  
+![10  Отримання старих версій](https://github.com/user-attachments/assets/e950a2ab-ea25-4b59-9dea-3e8c8a6013fa)
+
+### 11. Створення тегів версій  
+![11  Створення тегів версій](https://github.com/user-attachments/assets/c3500bb2-5790-431b-82a9-dbcd1ce97b18)
+
+### 12. Скасування локальних змін (до індексації)  
+![12  Скасування локальних змін](https://github.com/user-attachments/assets/b7ebec55-ab90-4d6e-b81d-6f19b202c7d1)
+
+### 13. Скасування проіндексованих змін (перед комітом)  
+![13  Скасування проіндексованих змін](https://github.com/user-attachments/assets/c689350e-76dc-43d9-a1b0-436adebd9f62)
+
+### 14. Скасування комітів  
+![14  Скасування комітів](https://github.com/user-attachments/assets/ba66047c-0bc9-4207-9beb-ec2ad96cf009)
+
+### 15. Видалення комітів з гілки (revert)  
+![15  Видалення комітів з гілки](https://github.com/user-attachments/assets/bf376d7e-b65c-4127-ab91-2d3a32baab2b)
+
+### 16. Видалення тегу oops  
+![16  Видалення тегу oops](https://github.com/user-attachments/assets/dd2cf1b7-b29b-4469-9d45-0d74e3034ae7)
+
+### 17. Внесення змін до комітів  
+![17  Внесення змін до комітів](https://github.com/user-attachments/assets/05ad223f-57e1-4874-8060-e3638422939a)
+
+### 18. Створення гілки  
+![18  Створення гілки](https://github.com/user-attachments/assets/5c61bf8a-b5b8-466b-8a7c-ed952f292d9c)
+
+### 19. Перемикання гілок  
+![19  Перемикання гілок](https://github.com/user-attachments/assets/c2b2dbb2-2328-49cc-b03b-99d7cec2283c)
+
+### 20. Переміщення файлів  
+![20  Переміщення файлів](https://github.com/user-attachments/assets/067decb1-e7cf-4312-b9c1-b15c6eed0949)
+
+### 21. Зміни в гілці main  
+![21  Зміни в гілці main](https://github.com/user-attachments/assets/5768b67e-6c01-4529-887f-110d4e5d0bef)
+
+### 22. Перегляд розбіжних гілок  
+![22  Перегляд розбіжних гілок](https://github.com/user-attachments/assets/21834e9c-3136-4f48-987f-f34f05834c0b)
+
+### 23. Злиття  
+![23  Злиття](https://github.com/user-attachments/assets/bf2e09df-f91a-47b3-91fa-a786c9347de3)
+
+### 24. Створення конфлікту  
+![24  Створення конфлікту](https://github.com/user-attachments/assets/28286602-3f50-4a58-9307-f3530ac2af16)
+
+### 25. Вирішення конфліктів  
+![25  Вирішення конфліктів](https://github.com/user-attachments/assets/8bcccbed-5773-4471-adc1-7bd61a0726cf)
+
+### 27. Відкочування гілки style  
+![27  Відкочування гілки style](https://github.com/user-attachments/assets/58af5406-d943-4a6c-8a6f-9c8c28696c30)
+
+### 28. Перебазування  
+![28  Перебазування](https://github.com/user-attachments/assets/60f8b207-cba5-4f03-9abd-ec22aa6ff792)
+
+### 29. Злиття в гілку main  
 ![29  Злиття в гілку main](https://github.com/user-attachments/assets/20fac0fa-43eb-4e75-ab8e-63c330fcf0e0)
 
----
+### 30. Клонування репозиторіїв  
+![30  Клонування репозиторіїв](https://github.com/user-attachments/assets/587df87e-de03-4643-a374-36c9d8265b85)
 
-### 🔹 Частина 2 — розширені сценарії
+### 31. Перегляд клонованого репозиторія  
+![31  Перегляд клонованого репозиторія](https://github.com/user-attachments/assets/05f44734-174f-4463-8df9-a02610cd6bdf)
 
-![30  Клонування репозиторіїв](https://github.com/user-attachments/assets/587df87e-de03-4643-a374-36c9d8265b85)  
-![31  Перегляд клонованого репозиторія](https://github.com/user-attachments/assets/05f44734-174f-4463-8df9-a02610cd6bdf)  
-![32  Що таке origin](https://github.com/user-attachments/assets/9c237e13-c7e1-4df6-b649-972007b8d390)  
-![33  Віддалені гілки](https://github.com/user-attachments/assets/201b899f-cdb0-470a-8d2e-5e54e67b4c76)  
-![34  Зміна оригінального репозиторія](https://github.com/user-attachments/assets/eddc75a9-a024-4774-9659-15a3e101b316)  
-![36  Злиття підтягнутих змін](https://github.com/user-attachments/assets/fdcb4940-d93a-439b-9c8a-da2dd4e63cbb)  
-![37  Додавання гілки відстеження](https://github.com/user-attachments/assets/b6e0d3a9-e205-4f3b-8dee-d42505fec761)  
-![38  Чисті репозиторії](https://github.com/user-attachments/assets/1b344f14-dca4-4026-8b76-1ffa9e260553)  
-![39  Додавання віддаленого репозиторія](https://github.com/user-attachments/assets/a0c5826e-6447-4a0f-ae62-d1ce6af5668c)  
-![40  Відправка змін](https://github.com/user-attachments/assets/b55c4dbb-47cb-404a-a0c7-25f4c2b6bca5)  
+### 32. Що таке origin  
+![32  Що таке origin](https://github.com/user-attachments/assets/9c237e13-c7e1-4df6-b649-972007b8d390)
+
+### 33. Віддалені гілки  
+![33  Віддалені гілки](https://github.com/user-attachments/assets/201b899f-cdb0-470a-8d2e-5e54e67b4c76)
+
+### 34. Зміна оригінального репозиторія  
+![34  Зміна оригінального репозиторія](https://github.com/user-attachments/assets/eddc75a9-a024-4774-9659-15a3e101b316)
+
+### 36. Злиття підтягнутих змін  
+![36  Злиття підтягнутих змін](https://github.com/user-attachments/assets/fdcb4940-d93a-439b-9c8a-da2dd4e63cbb)
+
+### 37. Додавання гілки відстеження  
+![37  Додавання гілки відстеження](https://github.com/user-attachments/assets/b6e0d3a9-e205-4f3b-8dee-d42505fec761)
+
+### 38. Чисті репозиторії  
+![38  Чисті репозиторії](https://github.com/user-attachments/assets/1b344f14-dca4-4026-8b76-1ffa9e260553)
+
+### 39. Додавання віддаленого репозиторія  
+![39  Додавання віддаленого репозиторія](https://github.com/user-attachments/assets/a0c5826e-6447-4a0f-ae62-d1ce6af5668c)
+
+### 40. Відправка змін  
+![40  Відправка змін](https://github.com/user-attachments/assets/b55c4dbb-47cb-404a-a0c7-25f4c2b6bca5)
+
+### 41. Підтягування спільних змін  
 ![41  Підтягування спільних змін](https://github.com/user-attachments/assets/bb850ded-35cc-4ae6-b3df-9432ca7826db)
-
----
-
-## 💬 Коментарі та враження
-
-Курс **Git How To** дозволив глибше зрозуміти внутрішню логіку Git та від
